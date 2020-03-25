@@ -12,4 +12,4 @@ import { EventsAppComponent } from './events-app.component';
   ],
   bootstrap: [EventsAppComponent]
 })
-export class AppModule { }
+export class EventsAppModule { }
